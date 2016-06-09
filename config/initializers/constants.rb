@@ -189,7 +189,8 @@ module Dom4
 					84 => "R'lyeh",
 					85 => "Pelagia",
 					86 => "Oceania",
-					31 => "Xibalba"
+					31 => "Xibalba",
+					95 => "Therodos"
 					},
 
 			"MA"=> {33 => "Arcoscephale",
@@ -220,7 +221,8 @@ module Dom4
 					89 => "Pelagia",
 					90 => "Oceania",
 					57 => "Nazca",
-					58 => "Xibalba"
+					58 => "Xibalba",
+					96 => "Ys"
 					},
 
 			"LA"=> {60 => "Arcoscephale",
@@ -328,8 +330,9 @@ module Dom4
 					58 => "MA Xibalba",
 					57 => "MA Nazca",
 					81 => "LA Xibalba",
-					31 => "EA Xibalba"
-
+					31 => "EA Xibalba",
+					95 => "EA Therodos",
+					96 => "MA Ys"
 			}
 		}
 		ADMINS = [
